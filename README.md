@@ -16,7 +16,7 @@ Implementation of the four variants of RPROP reported in the article "<b>Empiric
     <li>Improved RPROP without weight-backtracking (iRPROP-)</li>
   </ul>
 
-<h2>Purpose of the project/h2>
+<h2>Purpose of the project</h2>
 The project aims to study and understand how an FNN neural network works, implementing the latter without the use of third-party libraries developed specifically for Machine-Learning, such as TesnorFlow and PyTorch.
 <br><br>
 The performance of the implemented FNN is then extensively analyzed, performing a multiclass classification task, using the MNIST dataset. Classical resilient backpropagation (RProp) is compared with the different variants reported in the article and implemented in this library. Evaluations are made using a HOLD-OUT approach, and the following are used as terms of comparison: average error on Test-Set, average accuracy on Test-Set, epochs required for convergence during the Learning phase. The GRID-SEARCH approach is, in addition, used to determine the best hyper-parameters for each RProp variant.
