@@ -1,5 +1,5 @@
 # NerualNetwork_Feed_forward_Full_Connected
-In this project, carried out as part of the master's degree in Computer Science at the University of Naples Federico II, we developed a Feed-Forward Full-Connected Multi-Layer Neural Network from scratch, using the Python language and only the NumPy library.
+In this project, carried out as part of the master's degree in Computer Science at the University of Naples Federico II, we developed a Feed-Forward Full-Connected Multi-Layer Neural Network from scratch, using the Python language (in version 3.10) and only the NumPy library.
 In the developed library, an FNN nerual network can be instantiated, establishing the number of layers, the number of neurons for each layer, the activation function for each layer, and the error function to be used during the learning phase.
 
 <h2>Project specifications</h2>
