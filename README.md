@@ -24,6 +24,6 @@ The performance of the implemented FNN is then extensively analyzed, performing 
 <h2>Project Documentation</h2>
 Project documentation can be viewed at the following links:
 <ul>
-    <li>Italian Version: <a href="https://drive.google.com/file/d/1DpmoJqMSKNFT_wce9zEmYNVoCaksTkjH/view?usp=drive_link">doc link</a></li>
+    <li>Italian Version: <a href="https://drive.google.com/file/d/1wmaC5sAwj6PY5Tya9DOiOSdYRrNdfVAp/view?usp=sharing">doc link</a></li>
     <li>English version: <a href="">doc link</a></li>
 </ul>
